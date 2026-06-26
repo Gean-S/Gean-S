@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="pixel_art_banner.png" alt="Banner pixel" width="70%"/>
 </p>
