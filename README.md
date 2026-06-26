@@ -1,44 +1,30 @@
-<p align="center">
-<img src="/home/ubuntu/final_medieval_banner.png" alt="Banner Medieval Dark Fantasy" width="100%"/>
-</p>
+**Sobre mim**  
+🚀 Olá! Sou Gean Santos, um desenvolvedor em formação que busca constantemente a excelência, a inovação e o aperfeiçoamento das minhas habilidades técnicas. Minha trajetória é guiada pela curiosidade e pela vontade de criar soluções que façam a diferença, seja no desenvolvimento web, na criação de jogos ou na arquitetura de sistemas. Atualmente, estou imerso no mundo do C++ e do desenvolvimento backend, mas também mantenho um forte interesse pelo design de interfaces e pela experiência do usuário. A cada projeto, busco não apenas resolver problemas, mas aprender algo novo e compartilhar esse conhecimento com a comunidade.
 
-Apresentação
+<hr>
 
-Olá, eu sou Gean Santos, um desenvolvedor em formação, comprometido com a excelência, a inovação e o desenvolvimento contínuo em minhas habilidades técnicas.
+**🚀 Projetos e Aprendizado**
 
-Projetos e Aprendizado
+• 🎯 Atualmente, estou engajado no desenvolvimento de um Software as a Service (SaaS), aprofundando meus estudos em desenvolvimento de jogos e criando websites e portfólios, sempre com o objetivo de evoluir e entregar soluções modernas e de alta qualidade.  
+• 💻 Minhas áreas de estudo atuais incluem C++, Python e CSS.  
+• 🤝 Busco ativamente oportunidades para colaborar em projetos inovadores, contribuindo com soluções criativas e enfrentando novos desafios técnicos.  
+• 🎨 Procuro assistência para o desenvolvimento de animações e experiências visuais imersivas.  
+• 📬 Estou disponível para discussões sobre HTML, CSS, JavaScript, PHP, SQL e o desenvolvimento web em geral.  
+• 📧 Para contato, utilize o e-mail: geanoliveirasantos244@gmail.com  
+• 🏆 Curiosidade: Fui classificado entre os 1.000 melhores jogadores brasileiros de Clash Royale.
 
-•
-Atualmente, estou engajado no desenvolvimento de um Software as a Service (SaaS), aprofundando meus estudos em desenvolvimento de jogos e criando websites e portfólios, sempre com o objetivo de evoluir e entregar soluções modernas e de alta qualidade.
+<hr>
 
-•
-Minhas áreas de estudo atuais incluem C++, Python e CSS.
-
-•
-Busco ativamente oportunidades para colaborar em projetos inovadores, contribuindo com soluções criativas e enfrentando novos desafios técnicos.
-
-•
-Procuro assistência para o desenvolvimento de animações e experiências visuais imersivas.
-
-•
-Estou disponível para discussões sobre HTML, CSS, JavaScript, PHP, SQL e o desenvolvimento web em geral.
-
-•
-Para contato, utilize o e-mail: geanoliveirasantos244@gmail.com
-
-•
-Curiosidade: Fui classificado entre os 1.000 melhores jogadores brasileiros de Clash Royale.
-
-Conectividade Profissional
-
-Conecte-se comigo:
+**🔗 Conecte-se comigo:**
 
 <p align="left">
 <a href="https://github.com/Gean Santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Gean Santos" height="30" width="40" /></a>
   <a href="https://instagram.com/gean.its" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gean.its" height="30" width="40" /></a>
 </p>
 
-Tecnologias e Ferramentas
+<hr>
+
+**🛠️ Tecnologias e Ferramentas**
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>
@@ -49,8 +35,13 @@ Tecnologias e Ferramentas
   <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a>
-</p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gean Santos&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gean Santos" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gean Santos&show_icons=true&locale=en&theme=dark" alt="Gean Santos" /></p>
+</p>
 
+<hr>
+
+<!-- Imagens de pixel colocadas no final, no lugar do nome -->
+<p align="center">
+<img src="/home/ubuntu/final_medieval_banner.png" alt="Banner Medieval Dark Fantasy" width="100%"/>
+</p>
 
 
