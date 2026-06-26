@@ -50,8 +50,8 @@
 
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="cavaleiro.png" alt="Banner Medieval Dark Fantasy" width="45%"/>
-  <img src="arqueiro.png" alt="Banner Medieval Dark Fantasy" width="45%"/>
+  <img src="cavaleiro.png" alt="" width="45%"/>
+  <img src="arqueiro.png" alt="" width="45%"/>
 </p>
 
 
