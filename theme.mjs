@@ -198,7 +198,13 @@ export function baseDefs(theme) {
   <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
   <stop offset="0.5" stop-color="#ffffff" stop-opacity="${theme.name === 'dark' ? 0.35 : 0.5}"/>
   <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
-</linearGradient>`;
+</linearGradient>
+<filter id="f-shadow" x="-50%" y="-50%" width="200%" height="200%">
+  <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.2"/>
+</filter>
+<filter id="f-blur" x="-50%" y="-50%" width="200%" height="200%">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="1.5"/>
+</filter>`;
 }
 
 export function svgDoc({ width, height, theme, title, body, defs = '', transparent = false }) {
@@ -207,14 +213,14 @@ export function svgDoc({ width, height, theme, title, body, defs = '', transpare
   )}" font-family="${FONT_MONO}">
 <title>${esc(title)}</title>
 <defs>${baseDefs(theme)}${defs}</defs>
-${transparent ? '' : ''}${body}
+${transparent ? '' : `<rect width="${width}" height="${height}" fill="${theme.bg}"/>`}${body}
 </svg>`;
 }
 
 export function card({ x = 0, y = 0, width, height, theme, radius = 16, fill }) {
   return `<rect x="${x + 0.5}" y="${y + 0.5}" width="${width - 1}" height="${height - 1}" rx="${radius}" fill="${
     fill || theme.surface
-  }" stroke="${theme.border}"/>`;
+  }" stroke="${theme.border}" stroke-width="1"/>`;
 }
 
 export function cardTitle({ x, y, theme, title, subtitle, right }) {
@@ -234,7 +240,7 @@ export function cardTitle({ x, y, theme, title, subtitle, right }) {
 
 export function sampleTag(theme, x, y) {
   return `<g transform="translate(${x} ${y})">
-  <rect x="-62" y="-11" width="62" height="16" rx="8" fill="${theme.secondary}" fill-opacity="0.16" stroke="${theme.secondary}" stroke-opacity="0.6"/>
+  <rect x="-62" y="-11" width="62" height="16" rx="8" fill="${theme.secondary}" fill-opacity="0.16" stroke="${theme.secondary}" stroke-opacity="0.6" stroke-width="1"/>
   <text x="-31" y="0.5" font-size="8.5" font-weight="700" letter-spacing="1" text-anchor="middle" fill="${theme.secondary}">AMOSTRA</text>
 </g>`;
 }
@@ -243,7 +249,7 @@ export function sampleTag(theme, x, y) {
 export function chip({ x, y, text, color, theme, size = 10 }) {
   const w = textWidth(text, size) + 22;
   return `<g transform="translate(${x} ${y})">
-  <rect width="${w}" height="${size + 8}" rx="${(size + 8) / 2}" fill="${theme.surface2}" stroke="${theme.border}"/>
+  <rect width="${w}" height="${size + 8}" rx="${(size + 8) / 2}" fill="${theme.surface2}" stroke="${theme.border}" stroke-width="1"/>
   <circle cx="9" cy="${(size + 8) / 2}" r="3" fill="${color}"/>
   <text x="16" y="${(size + 8) / 2 + size * 0.36}" font-size="${size}" fill="${theme.text}">${esc(text)}</text>
 </g>`;
@@ -260,7 +266,46 @@ export function starIcon(color) {
 
 /** Ícone de fork (16px) */
 export function forkIcon(color) {
-  return `<g fill="none" stroke="${color}" stroke-width="1.6" stroke-linecap="round"><circle cx="4" cy="3.5" r="1.6"/><circle cx="12" cy="3.5" r="1.6"/><circle cx="8" cy="12.5" r="1.6"/><path d="M4 5.2v1.2c0 1.5 1.2 2.4 2.7 2.4h2.6c1.5 0 2.7-.9 2.7-2.4V5.2M8 8.8v2"/></g>`;
+  return `<g fill="none" stroke="${color}" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="4" cy="3.5" r="1.6"/>
+  <circle cx="12" cy="3.5" r="1.6"/>
+  <circle cx="8" cy="12.5" r="1.6"/>
+  <path d="M4 5.1v5.3M12 5.1v5.3M4 7.7h4m0 0h4"/>
+</g>`;
+}
+
+/** Ícone de código */
+export function codeIcon(color) {
+  return `<path d="M5 2l-4 6 4 6m6-12l4 6-4 6M8 1v14" fill="none" stroke="${color}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>`;
+}
+
+/** Ícone de gráfico */
+export function chartIcon(color) {
+  return `<g fill="none" stroke="${color}" stroke-width="1.5" stroke-linecap="round">
+  <path d="M2 14h12V2"/>
+  <path d="M2 11l3-3 3 2 4-5"/>
+</g>`;
+}
+
+/** Ícone de fire/chama */
+export function fireIcon(color) {
+  return `<path d="M8 2c2 0 4 3 4 6 0 2-1 4-2 5h-4c-1-1-2-3-2-5 0-3 2-6 4-6z" fill="${color}" opacity="0.8"/>
+<path d="M8 3c1 1 2 2 2 4 0 1-0.5 2-1 3" fill="none" stroke="${color}" stroke-width="0.5"/>`;
+}
+
+/** Ícone de estrela preenchida */
+export function starFilledIcon(color) {
+  return `<path d="M8 1.5l1.9 4.1 4.5.5-3.3 3.1.9 4.4L8 11.4l-4 2.2.9-4.4L1.6 6.1l4.5-.5z" fill="${color}"/>`;
+}
+
+/** Padrão de grade (background) */
+export function gridPattern(theme) {
+  return `<defs>
+  <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M 20 0 L 0 0 0 20" fill="none" stroke="${theme.grid}" stroke-width="0.5"/>
+  </pattern>
+</defs>
+<rect width="100%" height="100%" fill="url(#grid)"/>`;
 }
 
 /** Placeholder exibido quando não há dados (antes do primeiro workflow) */
@@ -281,8 +326,41 @@ ${lines
   )
   .join('')}
 <g transform="translate(${width - 60} ${height - 44})">
-  <circle r="6" fill="${theme.primary}" opacity="0.9"><animate attributeName="r" values="4;8;4" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0.3;0.9" dur="1.6s" repeatCount="indefinite"/></circle>
+  <circle r="6" fill="${theme.primary}" opacity="0.9">
+    <animate attributeName="r" values="4;8;4" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
 </g>
 ${sample ? sampleTag(theme, width - 16, 28) : ''}`;
   return svgDoc({ width, height, theme, title, body });
+}
+
+/** Renderiza um badge/badge com ícone */
+export function badge({ icon, text, color, theme, size = 12 }) {
+  return `<g>
+  <rect width="${textWidth(text, size) + 32}" height="24" rx="12" fill="${color}" opacity="0.15" stroke="${color}" stroke-width="1"/>
+  <text x="16" y="16" font-size="${size}" font-weight="600" text-anchor="middle" fill="${color}">${esc(text)}</text>
+</g>`;
+}
+
+/** Renderiza uma linha animada */
+export function animatedLine(theme, x1, y1, x2, y2, duration = 2) {
+  return `<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="url(#g-accent)" stroke-width="2" opacity="0.6">
+  <animate attributeName="stroke-width" values="2;3;2" dur="${duration}s" repeatCount="indefinite"/>
+</line>`;
+}
+
+/** Renderiza um card com gradiente e sombra */
+export function gradientCard({ x = 0, y = 0, width, height, theme, title, content }) {
+  return `<g>
+  <defs>
+    <linearGradient id="card-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="${theme.primary}" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="${theme.secondary}" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <rect x="${x}" y="${y}" width="${width}" height="${height}" rx="12" fill="url(#card-grad)" stroke="${theme.border}" stroke-width="1" filter="url(#f-shadow)"/>
+  <text x="${x + 16}" y="${y + 28}" font-size="14" font-weight="700" fill="${theme.text}">${esc(title)}</text>
+  <text x="${x + 16}" y="${y + height - 16}" font-size="11" fill="${theme.muted}">${esc(content)}</text>
+</g>`;
 }
