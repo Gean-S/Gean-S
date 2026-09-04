@@ -86,25 +86,30 @@ Adicione screenshots dos seus trabalhos em /assets (ex.: assets/screenshot1.png)
 
 <div align="center">
 
-<!-- Bar chart: improved colors, labels and numeric values displayed -->
-
-![Horas por dia](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Seg%22%2C%22Ter%22%2C%22Qua%22%2C%22Qui%22%2C%22Sex%22%2C%22Sab%22%2C%22Dom%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Horas%20por%20dia%20(m%C3%A9dia)%22%2C%22data%22%3A%5B4%2C8%2C6%2C9%2C4%2C8%2C2%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%2336A2EB%22%2C%22%23FFCE56%22%2C%22%234BC0C0%22%2C%22%239966FF%22%2C%22%23FF9F40%22%2C%22%23C9CBCF%22%5D%2C%22borderRadius%22%3A6%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22M%C3%A9dia%20de%20horas%20por%20dia%20(estimativa)%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%2C%22datalabels%22%3A%7B%22display%22%3Atrue%2C%22color%22%3A%22%23000%22%2C%22anchor%22%3A%22end%22%2C%22align%22%3A%22end%22%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A10%7D%7D%7D%7D)
+![Horas por dia](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Seg%22%2C%22Ter%22%2C%22Qua%22%2C%22Qui%22%2C%22Sex%22%2C%22Sab%22%2C%22Dom%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Horas%20por%20dia%20(m%C3%A9dia)%22%2C%22data%22%3A%5B4%2C8%2C6%2C9%2C4%2C8%2C2%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%2336A2EB%22%2C%22%23FFCE56%22%2C%22%234BC0C0%22%2C%22%239966FF%22%2C%22%23FF9F40%22%2C%22%23C9CBCF%22%5D%2C%22borderRadius%22%3A6%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22M%C3%A9dia%20de%20horas%20por%20dia%20(estimativa)%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A10%7D%7D%7D%7D)
 
 </div>
 
 ---
 
-## 📌 Distribuição por Tecnologia
+## 🛠 Competências & Experiência
 
 <div align="center">
 
-<!-- Pie chart for distribution -->
+![Competências por tecnologia](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22indexAxis%22%3A%22y%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%20(Front-end)%22%2C%22TypeScript%22%2C%22HTML%20%26%20CSS%22%2C%22Python%20(Rob%C3%B3tica)%22%2C%22C%2B%2B%20%2F%20Outros%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22%25%20de%20uso%20/%20experi%C3%AAncia%22%2C%22data%22%3A%5B50%2C15%2C15%2C10%2C10%5D%2C%22backgroundColor%22%3A%22%2358a6ff%22%2C%22barThickness%22%3A18%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Compet%C3%AAncias%20por%20tecnologia%20(estimativa)%22%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A100%7D%7D%7D%7D)
 
-![Distribuição por Tecnologia](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%20%2F%20Front-end%22%2C%22TypeScript%22%2C%22HTML%20%26%20CSS%22%2C%22Python%20%2F%20Rob%C3%B3tica%22%2C%22C%2B%2B%20%2F%20Outros%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B50%2C15%2C15%2C10%2C10%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%2336A2EB%22%2C%22%23FFCE56%22%2C%22%234BC0C0%22%2C%22%239966FF%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Atrue%7D%2C%22legend%22%3A%7B%22position%22%3A%22bottom%22%7D%7D%7D%7D)
+
+| Tecnologia | Nível | Onde aplico / Exemplos |
+|-----------|:-----:|------------------------|
+| JavaScript | Avançado | Front-end, jogos, interfaces (ex.: Gean-S, Cafepreto) |
+| TypeScript | Intermediário | Apps e projetos com TS (ex.: Cafepreto) |
+| HTML & CSS | Avançado | Layouts, animações, sites (ex.: cafezinho) |
+| Python | Intermediário | Robótica, scripts, automação |
+| C++ / Outros | Básico/Intermediário | Componentes de performance, projetos experimentais |
 
 </div>
 
-> Atualizei os gráficos: agora há um gráfico de barras com cores vivas e rótulos numéricos, e um gráfico de pizza para a distribuição por tecnologia.
+> Atualizei a seção para mostrar competências de forma mais útil: gráfico horizontal (mais legível) e tabela com níveis e exemplos. Diga se quer que eu mude os percentuais, níveis ou exemplos.
 
 ---
 
