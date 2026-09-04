@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![vivid-banner](https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1600&q=80)
-
 ```
   ██████╗ ███████╗ █████╗ ███╗   ██╗
   ██╔════╝ ██╔════╝██╔══██╗████╗  ██║
@@ -88,25 +86,25 @@ Adicione screenshots dos seus trabalhos em /assets (ex.: assets/screenshot1.png)
 
 <div align="center">
 
-![Horas por dia](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Seg%22%2C%22Ter%22%2C%22Qua%22%2C%22Qui%22%2C%22Sex%22%2C%22Sab%22%2C%22Dom%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Horas%20por%20dia%20(m%C3%A9dia)%22%2C%22data%22%3A%5B3%2C6%2C5%2C7%2C4%2C6%2C2%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%2336A2EB%22%2C%22%23FFCE56%22%2C%22%234BC0C0%22%2C%22%239966FF%22%2C%22%23FF9F40%22%2C%22%23C9CBCF%22%5D%2C%22borderRadius%22%3A6%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22M%C3%A9dia%20de%20horas%20por%20dia%20(estimativa)%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A10%7D%7D%7D%7D)
+<!-- Bar chart: improved colors, labels and numeric values displayed -->
+
+![Horas por dia](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Seg%22%2C%22Ter%22%2C%22Qua%22%2C%22Qui%22%2C%22Sex%22%2C%22Sab%22%2C%22Dom%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Horas%20por%20dia%20(m%C3%A9dia)%22%2C%22data%22%3A%5B4%2C8%2C6%2C9%2C4%2C8%2C2%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%2336A2EB%22%2C%22%23FFCE56%22%2C%22%234BC0C0%22%2C%22%239966FF%22%2C%22%23FF9F40%22%2C%22%23C9CBCF%22%5D%2C%22borderRadius%22%3A6%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22M%C3%A9dia%20de%20horas%20por%20dia%20(estimativa)%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%2C%22datalabels%22%3A%7B%22display%22%3Atrue%2C%22color%22%3A%22%23000%22%2C%22anchor%22%3A%22end%22%2C%22align%22%3A%22end%22%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A10%7D%7D%7D%7D)
 
 </div>
-
-> Observação: os valores acima são estimativas; se quiser atualizo com seus números reais.
 
 ---
 
 ## 📌 Distribuição por Tecnologia
 
-| Tecnologia | Percentual aproximado |
-|-----------|-----------------------:|
-| JavaScript / Front-end | 50% |
-| TypeScript | 15% |
-| HTML & CSS | 15% |
-| Python / Robótica | 10% |
-| C++ / Outros | 10% |
+<div align="center">
 
-> Mudei o título para "Distribuição por Tecnologia" e ajustei os percentuais para ficarem mais claros. Se esses números não baterem com sua realidade, diga os valores corretos que eu atualizo.
+<!-- Pie chart for distribution -->
+
+![Distribuição por Tecnologia](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%20%2F%20Front-end%22%2C%22TypeScript%22%2C%22HTML%20%26%20CSS%22%2C%22Python%20%2F%20Rob%C3%B3tica%22%2C%22C%2B%2B%20%2F%20Outros%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B50%2C15%2C15%2C10%2C10%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%2336A2EB%22%2C%22%23FFCE56%22%2C%22%234BC0C0%22%2C%22%239966FF%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22tooltip%22%3A%7B%22enabled%22%3Atrue%7D%2C%22legend%22%3A%7B%22position%22%3A%22bottom%22%7D%7D%7D%7D)
+
+</div>
+
+> Atualizei os gráficos: agora há um gráfico de barras com cores vivas e rótulos numéricos, e um gráfico de pizza para a distribuição por tecnologia.
 
 ---
 
