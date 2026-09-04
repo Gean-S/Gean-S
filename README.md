@@ -24,7 +24,7 @@
 
 ## 🎯 Sobre Mim
 
-Sou um desenvolvedor criativo com paixão por criar soluções inovadoras que combinam arte e tecnologia. Especializado em desenvolvimento de jogos, design de pixels art e ferramentas de terminal, estou sempre buscando explorar novas formas de expressão digital.
+Sou um desenvolvedor criativo com paixão por criar soluções que combinam arte e tecnologia. Especializado em desenvolvimento de jogos, pixel art e ferramentas de terminal.
 
 **O que me motiva:**
 - 🎮 Criar experiências de jogo imersivas e interativas
@@ -49,13 +49,6 @@ Sou um desenvolvedor criativo com paixão por criar soluções inovadoras que co
 
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Pixel Art](https://img.shields.io/badge/-Pixel%20Art-FF69B4?style=for-the-badge)
-![Game Design](https://img.shields.io/badge/-Game%20Design-4CAF50?style=for-the-badge)
-
-### 🛠️ Ferramentas
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Terminal](https://img.shields.io/badge/-Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
@@ -87,9 +80,9 @@ Sou um desenvolvedor criativo com paixão por criar soluções inovadoras que co
 
 | 🎮 Projeto | 📝 Descrição | 💬 Linguagem |
 |-----------|------------|-----------|
-| **[Seu Jogo RPG]** | Um RPG desenvolvido com foco em narrativa e pixel art | JavaScript |
-| **[Ferramenta CLI]** | Aplicação de terminal para [descrever funcionalidade] | JavaScript |
-| **[Pixel Art Portfolio]** | Galeria de trabalhos em pixel art | HTML/CSS/JS |
+| **[Cafepreto](https://github.com/Gean-S/Cafepreto)** | Estrutura para site publicado via GitHub Pages | TypeScript |
+| **[cafezinho](https://github.com/Gean-S/cafezinho)** | Site animado para cafeteria (exemplo de UI/UX) | HTML/CSS |
+| **[Gean-S](https://github.com/Gean-S/Gean-S)** | Este repositório — README e portfólio | JavaScript |
 
 *Clique nos projetos para ver repositórios completos e documentação detalhada*
 
@@ -103,11 +96,11 @@ Sou um desenvolvedor criativo com paixão por criar soluções inovadoras que co
 
 ### Trabalhos Recentes
 
-```
-[Galeria de projetos visuais - adicione screenshots aqui]
-```
+Adicione aqui screenshots dos seus trabalhos (ex.: /assets/screenshot1.png). Para imagens de alta qualidade, eu adicionei um exemplo de imagem livre abaixo.
 
-> 📸 **Dica:** Adicione imagens de seus trabalhos em pixel art para tornar esta seção mais visual!
+![Pixel art sample](https://images.unsplash.com/photo-1526318472351-c75fcf070efd?auto=format&fit=crop&w=1200&q=80)
+
+> 📸 Imagem de exemplo (Unsplash) — imagens gratuitas para uso; mantenha créditos quando possível.
 
 ### Estilo Visual
 - **Paleta de Cores:** Cores vibrantes e contrastantes
@@ -120,39 +113,21 @@ Sou um desenvolvedor criativo com paixão por criar soluções inovadoras que co
 
 ## 📈 Roadmap de Desenvolvimento
 
-```
-🔄 2026 - Meu Journey de Desenvolvimento
-
-├─ Q1: Refatoração de Projetos Antigos
-├─ Q2: Novo Jogo em Desenvolvimento
-├─ Q3: Publicação de Asset Pack Pixel Art
-└─ Q4: Comunidade & Colaborações Open Source
-
-Contribuições: ████████████░░░░ 75% do ano
-Próximas Metas: Atingir 100+ Contribuições
-```
+- Q1: Refatoração de projetos antigos
+- Q2: Novo jogo em desenvolvimento
+- Q3: Publicação de asset pack de pixel art
+- Q4: Comunidade & colaborações open source
 
 ---
 
 ## 🎓 Experiência & Aprendizado
 
-<div align="center">
-
 ### 🏆 Competências Principais
 
-- ✅ **Desenvolvimento de Jogos** - Criação de mecaniquas, balanceamento e narrativa
+- ✅ **Desenvolvimento de Jogos** - Criação de mecânicas, balanceamento e narrativa
 - ✅ **Pixel Art & Design** - Animação e criação de assets visuais
 - ✅ **Programação em JavaScript** - Aplicações web e Node.js
 - ✅ **Ferramentas de Terminal** - CLI e automação
-- ✅ **Git & Versionamento** - Fluxo de trabalho profissional
-
-### 📚 Atualmente Aprendendo
-
-- 🔹 Desenvolvimento com Godot Engine
-- 🔹 Aprofundamento em Design de Jogos
-- 🔹 Web3 & Jogos Descentralizados
-
-</div>
 
 ---
 
@@ -163,13 +138,6 @@ Próximas Metas: Atingir 100+ Contribuições
 [![GitHub](https://img.shields.io/badge/GitHub-@Gean--S-000?style=for-the-badge&logo=github)](https://github.com/Gean-S)
 [![Email](https://img.shields.io/badge/Email-Enviar%20Mensagem-EA4335?style=for-the-badge&logo=gmail)](mailto:seu-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gean%20Santos-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-@Gean--S-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/seu-perfil)
-
-**📧 Entre em contato para:**
-- 🤝 Colaborações em projetos
-- 💼 Oportunidades profissionais
-- 🎮 Feedback sobre meus projetos
-- 🤓 Conversas sobre desenvolvimento e design
 
 </div>
 
@@ -187,61 +155,33 @@ Próximas Metas: Atingir 100+ Contribuições
 | HTML/CSS | 🔵🔵⚪⚪⚪ | 10% |
 | Outras | 🔵⚪⚪⚪⚪ | 5% |
 
-### Tempo de Desenvolvimento (Semana Típica)
+### Tempo típico de desenvolvimento por semana (média)
 
-```
-Seg ████░░░░░░ 40%
-Ter ████████░░ 80%
-Qua ██████░░░░ 60%
-Qui █████████░ 90%
-Sex ████░░░░░░ 40%
-Sab ████████░░ 80%
-Dom ██░░░░░░░░ 20%
-```
+![Horas por dia](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Seg%22%2C%22Ter%22%2C%22Qua%22%2C%22Qui%22%2C%22Sex%22%2C%22Sab%22%2C%22Dom%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Horas%20por%20dia%20(m%C3%A9dia)%22%2C%22data%22%3A%5B4%2C8%2C6%2C9%2C4%2C8%2C1%5D%2C%22backgroundColor%22%3A%22%2358a6ff%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A10%7D%7D%7D%7D)
+
+> Notas:
+> - Os valores acima são exemplos e podem ser ajustados para refletir sua rotina real (horas por dia).
+> - Melhorei o título para ser mais claro: "Tempo típico de desenvolvimento por semana (média)".
 
 </div>
 
 ---
 
-## 💡 Filosofia de Código
+## ✅ Melhorias de veracidade que apliquei / recomendo
 
-> *"Código limpo não é código que se lê bem. Código limpo é código que nos permite evoluir rapidamente sem quebrar o que já funciona."*
+1. Links diretos para repositórios dos projetos destacados.
+2. Removi conteúdo muito genérico e adicionei exemplos visuais (imagem de amostra e gráfico gerado).
+3. Sugestões para você confirmar/atualizar: datas de publicação, descrição dos projetos, screenshots reais e contato de e-mail/linkedin.
 
-Acredito em:
-- 📖 Código legível e bem documentado
-- 🔄 Testes e iteração constante
-- 🤝 Colaboração e feedback aberto
-- 🎯 Simplicidade sobre complexidade
-- ♻️ Reutilização responsável
-
----
-
-## 📝 Licença
-
-Todos os meus projetos estão sob a licença **MIT**, o que significa que você é livre para usar, modificar e distribuir meu código, desde que inclua o aviso de licença original.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Como próximo passo, eu posso:
+- Substituir a imagem de exemplo por screenshots reais (faça upload em /assets e eu atualizo o README).
+- Ajustar os valores do gráfico para refletir suas horas reais (me diga sua média por dia).
+- Criar uma branch e abrir um Pull Request com mudanças mais amplas (se preferir um PR em vez de commit direto).
 
 ---
 
-<div align="center">
-
-### 🌟 Aprecio o seu suporte!
-
-Se você gostou dos meus projetos, considere deixar uma ⭐ - isso me motiva a criar ainda mais conteúdo incrível!
-
-```
-        ⭐
-       ⭐⭐⭐
-      ⭐⭐⭐⭐⭐
-     Obrigado! 🙏
-    Feliz Codificando! 🚀
-```
-
-**Última atualização:** Setembro de 2026
+**Última atualização:** 04 Setembro 2026
 
 ---
 
 *Feito com ❤️ e muita criatividade por Gean Santos*
-
-</div>
