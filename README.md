@@ -75,22 +75,13 @@ Sou desenvolvedor web e designer, apaixonado por tecnologia e por criar coisas n
 
 ## 🚀 O que eu faço
 
-<div align="center">
+| 💻 Área                           | 📝 Descrição                                                      |
+| :-------------------------------- | :---------------------------------------------------------------- |
+| **Desenvolvimento Web**           | Criação de sites, interfaces e aplicações web.                    |
+| **🎨 Web Design**                 | Interfaces modernas, organização visual e experiência do usuário. |
+| **🤖 Robótica**                   | Projetos, protótipos e experiências com tecnologia.               |
+| **🔧 Manutenção de Computadores** | Manutenção, otimização e configuração de computadores.            |
 
-| 💻 **Desenvolvimento Web**|   
-| Criação de sites, interfaces e aplicações web.| 
-
-| 🎨 **Web Design** |  
-| Interfaces modernas, organização visual e experiência do usuário.| 
-
-| 🤖 **Robótica** |  
-| Projetos, protótipos e experiências com tecnologia.| 
-
-| 🔧 **Manutenção de Computadores** |  
-| Manutenção, otimização e configuração de computadores.| 
-
-</div>
----
 
 ## 🛠️ Competências & Experiência
 
