@@ -11,9 +11,9 @@
    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### 🎮 Game Developer | 🎨 Pixel Artist | ⚙️ Multidisciplinar
+### 💻 Desenvolvedor Web | 🎨 Web Designer | 🤖 Robótica
 
-*Crio produtos digitais com pixel art, front-end, back-end, robótica e manutenção de computadores.*
+*Desenvolvo soluções digitais com foco em desenvolvimento web, web design, robótica e manutenção de computadores.*
 
 </div>
 
@@ -21,7 +21,8 @@
 
 ## 🎯 Sobre Mim
 
-Sou desenvolvedor e designer multidisciplinar: trabalho com pixel art, interfaces web, APIs, protótipos robóticos e manutenção/otimização de computadores. Busco unir estética e robustez técnica em cada projeto.
+Sou desenvolvedor web e designer, apaixonado por tecnologia e por criar coisas novas. Trabalho com sites, interfaces, robótica e também com manutenção de computadores. Gosto de transformar ideias em projetos e estou sempre aprendendo algo novo no caminho.
+
 
 ---
 
@@ -64,58 +65,51 @@ Sou desenvolvedor e designer multidisciplinar: trabalho com pixel art, interface
 
 | 🎮 Projeto | 📝 Descrição | 💬 Linguagem |
 |-----------|------------|-----------|
-| **[Cafepreto](https://github.com/Gean-S/Cafepreto)** | Estrutura para site publicado via GitHub Pages | TypeScript |
-| **[cafezinho](https://github.com/Gean-S/cafezinho)** | Site animado para cafeteria (exemplo de UI/UX) | HTML/CSS |
-| **[Gean-S](https://github.com/Gean-S/Gean-S)** | Este repositório — README e portfólio | JavaScript |
+| **[Enigma](https://github.com/Gean-S/Enigma)** | Estrutura de um jogo de charadas | HTML |
+| **[galaxia](https://github.com/Gean-S/gal-xia)** | Site animado de uma galáxia em movimento (exemplo de UI/UX) | HTML/CSS |
+| **[Jesuzinha](https://github.com/Gean-S/Jesuzinha)** | Site feito para uma Escola | HTML, CSS, JavaScript |
 
 </div>
 
 ---
 
-## 🎨 Showcase - Pixel Art & Designs
+## 🚀 O que eu faço
 
 <div align="center">
 
-Adicione screenshots dos seus trabalhos em /assets (ex.: assets/screenshot1.png). As imagens destacam seu trabalho e ajudam recrutadores a entender sua habilidade visual rapidamente.
+💻 **Desenvolvimento Web**  
+Criação de sites, interfaces e aplicações web.
+
+🎨 **Web Design**  
+Interfaces modernas, organização visual e experiência do usuário.
+
+🤖 **Robótica**  
+Projetos, protótipos e experiências com tecnologia.
+
+🔧 **Manutenção de Computadores**  
+Manutenção, otimização e configuração de computadores.
 
 </div>
-
 ---
 
-## 📈 Tempo típico de desenvolvimento por semana (média)
+## 🛠️ Competências & Experiência
 
 <div align="center">
 
-![Horas por dia](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Seg%22%2C%22Ter%22%2C%22Qua%22%2C%22Qui%22%2C%22Sex%22%2C%22Sab%22%2C%22Dom%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Horas%20por%20dia%20(m%C3%A9dia)%22%2C%22data%22%3A%5B4%2C8%2C6%2C9%2C4%2C8%2C2%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%2336A2EB%22%2C%22%23FFCE56%22%2C%22%234BC0C0%22%2C%22%239966FF%22%2C%22%23FF9F40%22%2C%22%23C9CBCF%22%5D%2C%22borderRadius%22%3A6%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22M%C3%A9dia%20de%20horas%20por%20dia%20(estimativa)%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A10%7D%7D%7D%7D)
+![Áreas de atuação](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Desenvolvimento%20Web%22%2C%22Web%20Design%22%2C%22Rob%C3%B3tica%22%2C%22Manuten%C3%A7%C3%A3o%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22%C3%81reas%20de%20atua%C3%A7%C3%A3o%22%2C%22data%22%3A%5B4%2C4%2C3%2C3%5D%2C%22backgroundColor%22%3A%22%2358A6FF%22%2C%22borderRadius%22%3A8%2C%22barThickness%22%3A22%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22%C3%81reas%20de%20atua%C3%A7%C3%A3o%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22display%22%3Afalse%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D)
+
+| Área | Tecnologias / Atividades |
+|:---|:---|
+| 💻 **Desenvolvimento Web** | HTML, CSS, JavaScript, PHP e SQL |
+| 🎨 **Web Design** | Interfaces, layouts e organização visual |
+| 🤖 **Robótica** | Projetos, protótipos e automação |
+| 🔧 **Manutenção** | Configuração, manutenção e otimização de computadores |
 
 </div>
-
----
-
-## 🛠 Competências & Experiência
-
-<div align="center">
-
-![Competências por tecnologia](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22indexAxis%22%3A%22y%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%20(Front-end)%22%2C%22TypeScript%22%2C%22HTML%20%26%20CSS%22%2C%22Python%20(Rob%C3%B3tica)%22%2C%22C%2B%2B%20%2F%20Outros%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22%25%20de%20uso%20/%20experi%C3%AAncia%22%2C%22data%22%3A%5B50%2C15%2C15%2C10%2C10%5D%2C%22backgroundColor%22%3A%22%2358a6ff%22%2C%22barThickness%22%3A18%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Compet%C3%AAncias%20por%20tecnologia%20(estimativa)%22%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A100%7D%7D%7D%7D)
-
-
-| Tecnologia | Nível | Onde aplico / Exemplos |
-|-----------|:-----:|------------------------|
-| JavaScript | Avançado | Front-end, jogos, interfaces (ex.: Gean-S, Cafepreto) |
-| TypeScript | Intermediário | Apps e projetos com TS (ex.: Cafepreto) |
-| HTML & CSS | Avançado | Layouts, animações, sites (ex.: cafezinho) |
-| Python | Intermediário | Robótica, scripts, automação |
-| C++ / Outros | Básico/Intermediário | Componentes de performance, projetos experimentais |
-
-</div>
-
-> Atualizei a seção para mostrar competências de forma mais útil: gráfico horizontal (mais legível) e tabela com níveis e exemplos. Diga se quer que eu mude os percentuais, níveis ou exemplos.
-
 ---
 
 ## 🔧 Áreas de Atuação
 
-- Pixel Art & Sprites
 - Front-end: interfaces, animações, PWA
 - Back-end: APIs, integração, automação
 - Robótica: Arduino/Raspberry, automação com Python
@@ -136,7 +130,8 @@ Adicione screenshots dos seus trabalhos em /assets (ex.: assets/screenshot1.png)
 ---
 
 **Última atualização:** 04 Setembro 2026
+<div align="center">
 
----
+<img src="./assets/pacman_readme_animation_fixed.gif" width="900">
 
-*Feito com ❤️ e muita criatividade por Gean Santos*
+</div>
