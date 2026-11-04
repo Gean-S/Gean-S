@@ -9,7 +9,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gean-S/Gean-S/HEAD/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gean-S/Gean-S/HEAD/assets/hero.svg">
   <img alt="Gean Santos — Desenvolvedor Web · Front-end & Back-end. Se você está lendo isto, o banner não carregou… ou você é curioso. Oi. 👋" src="https://raw.githubusercontent.com/Gean-S/Gean-S/HEAD/assets/hero-dark.svg" width="100%">
 </picture>
 
