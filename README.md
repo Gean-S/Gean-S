@@ -1,4 +1,4 @@
-# 👋 Gean Santos - Desenvolvedor & Designer
+
 
 <div align="center">
 
