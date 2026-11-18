@@ -96,8 +96,6 @@ Adicione screenshots dos seus trabalhos em /assets (ex.: assets/screenshot1.png)
 
 <div align="center">
 
-![Competências por tecnologia](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22indexAxis%22%3A%22y%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%20(Front-end)%22%2C%22TypeScript%22%2C%22HTML%20%26%20CSS%22%2C%22Python%20(Rob%C3%B3tica)%22%2C%22C%2B%2B%20%2F%20Outros%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22%25%20de%20uso%20/%20experi%C3%AAncia%22%2C%22data%22%3A%5B50%2C15%2C15%2C10%2C10%5D%2C%22backgroundColor%22%3A%22%2358a6ff%22%2C%22barThickness%22%3A18%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Compet%C3%AAncias%20por%20tecnologia%20(estimativa)%22%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A100%7D%7D%7D%7D)
-
 
 | Tecnologia | Nível | Onde aplico / Exemplos |
 |-----------|:-----:|------------------------|
