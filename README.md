@@ -111,6 +111,12 @@ Adicione screenshots dos seus trabalhos em /assets (ex.: assets/screenshot1.png)
 
 > Atualizei a seção para mostrar competências de forma mais útil: gráfico horizontal (mais legível) e tabela com níveis e exemplos. Diga se quer que eu mude os percentuais, níveis ou exemplos.
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=gean-s&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219875982%3Fu%3D9c3414c455d5dd2d6d7e5b5aa0e8993e29822ae3%26v%3D4" alt="gean-s hero visual" />
+</p>
+
+
+
 ---
 
 ## 🔧 Áreas de Atuação
